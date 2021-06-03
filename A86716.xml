@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An humble acknowledgment of His Majestie's incomparable grace, expressed in His proclamation of pardon</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86716</idno><idno type="EEBO-CITATION">99896347</idno>
+  <idno type="VID">154217</idno>
+  <idno type="EEBO-PROQUEST">2240919905</idno>
+  
+            <idno type="STC">Wing H3369A</idno>
+            <idno type="STC">ESTC R226036</idno>
+            <idno type="PROQUEST">99896347</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99896347e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86716)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154217)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2406:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An humble acknowledgment of His Majestie's incomparable grace, expressed in His proclamation of pardon</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term type="topical_term">Pardon --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154217:1"/>
+            <p>AN HUMBLE ACKNOWLEDGMENT OF HIS MAJESTIE'S INCOMPARABLE GRACE, EXPRESSED In HIS <hi>PROCLAMATION</hi> OF PARDON.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:154217:2"/>
+            <pb facs="tcp:154217:2"/>
+            <head>AN HUMBLE ACKNOWLEDGMENT OF HIS MAJESTIE'S INCOMPARABLE GRACE Expressed in HIS <hi>PROCLAMATION</hi> of <hi>PARDON.</hi>
+            </head>
+            <opener>
+               <salute>May it please Your most Excellent Majesty,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I read Your most Gracious Declaration, since verified by a further Confirmation of the Pardon therein promised, my mind was rapt into a Contemplation of that Divine Mystery, which reveal'd it self to the amaz'd world, when the All-glorious Spirit of Forgiveness de<g ref="char:EOLhyphen"/>scended from Heaven, and stood between Apostasie and Hell.</p>
+            <p>After it was certainly known that the World was turn'd Rebel, one would have thought that nothing was now to be expected, that but the <hi>Chaos</hi> should re-mand the Crea<g ref="char:EOLhyphen"/>tion, and that the abus'd Creator having dissolv'd the a<g ref="char:EOLhyphen"/>micable League of different Principles, should have de<g ref="char:EOLhyphen"/>stroy'd the Order of the wel-form'd Universe, by the Mor<g ref="char:EOLhyphen"/>tall Clashings of Unchain'd Contrarieties: What could one imagin, but that suddenly God should have extin<g ref="char:EOLhyphen"/>guish'd the Sun, Unhing'd the Heavens, or have open'd the Doors of his Treasures of Water, and made the disimpri<g ref="char:EOLhyphen"/>son'd Sea revenge the Abuses which were offer'd to him
+<pb n="2" facs="tcp:154217:3"/>upon dry Land; or else that he should have burn'd and drown'd the Earth both at once by raining down showres of Fire from Heaven?</p>
+            <p>But beyond all Humane thought, and quite contrary to the Worlds Demerit, the Divine Mercy, which lay as a Reserve in Gods Bosom to save trembling Sinners from deserv'd Ruine; came forth, and in the midst of that black cloud, condens'd with Disobedience and Horrour, which inveloped the despairing World, painted a Mysterious Rainbow, and adorn'd it with most Illustrious Rayes of Forgiveness.</p>
+            <p>When men beheld this light with dazell'd eyes, they wondred what wrong'd Divinity meant, that it did not immediately Equal the Unreasonableness of Sin with due Proportions of Just Misery. But as that was a hard Task, (for afflicted man could never have made amends for his offence, though he had been tormented with all Instances of Punishment.) So is was as Unpleasant to the Nature of Increated Goodness, and Unsuitable to the Design of In<g ref="char:EOLhyphen"/>finite Wisdom. God had a Mind to let us see that he did not make the World in hopes to gain any thing by it; for he was content when be seem'd to lose by it. He show'd the Glories of the Deity, which were yet con<g ref="char:EOLhyphen"/>ceal'd, though men had affronted what they had seen, and took the first occasion to let them know, that He which made them good, and commanded them to continue such, could also Pardon them when they had made themselves evil.</p>
+            <p>The Angels did not know that God could forgive so much, but yet fell down before his Throne in Wonder and Silence, when they saw that instead of the Astonish<g ref="char:EOLhyphen"/>ments of dreadful Revenge, in which it was just for him to have appear'd, he amaz'd self-condemned Men with the
+<pb n="3" facs="tcp:154217:3"/>Glories of unexpected Grace; and having stopt the mouth of gaping Hell, struck sinners onely into the humble Depths of hopeful Repentance, and with a gentle Voice pronounc'd a Pardon in these great Words, <hi>The Meek Lamb of God shall be a Mercifull Propitiation for the offences of Wolves.</hi>
+            </p>
+            <p>Sir, I hope you will amongst other faults pardon me that I have continued my speech so long upon this Sub<g ref="char:EOLhyphen"/>ject, since it is the Original Exemplar according to which you have drawn that most excellent Copy, which all the World admires. The Tentations which you have van<g ref="char:EOLhyphen"/>quish'd, have witness'd the constancy of your Religion, and the Actions you have perform'd do plainly show, not only how truly you love the God whom you worship, but also how much you judge what he hath done worthy of your highest imitation. Whilst you have singl'd out for mo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e special Examples Clemency and Goodness, you have discover'd the Height of a Princely Mind, and taught all the World wherein chiefly God would be resembled by his Vice-gerents. You knew well that, as he said, <hi>Primus est Deorum Cultus, Deos credere: Deinde reddere il<g ref="char:EOLhyphen"/>lis Majestatem suam, reddere Bonitatem, sine quâ nulla Maje<g ref="char:EOLhyphen"/>stas est.</hi> Your wisdom told you, that you could not by a<g ref="char:EOLhyphen"/>ny other means so sully ascribe Majesty unto God, nor a<g ref="char:EOLhyphen"/>dore his awful Goodness in more humble Prostrations, then by Commanding Your own, and others Anger to permit You to imitate the most Merciful Deity. If we had not offended, the World had never known how much you could pardon; and by taking this fair opportunity, you have shown us that you knew the infinite value of any oc<g ref="char:EOLhyphen"/>casion, by which you might appear like unto God.</p>
+            <p>What strange Pictures of your Majesty did we receive from beyond Sea, drawn by such, who, to deprive you of
+<pb n="4" facs="tcp:154217:4"/>your Subjects Love, made You an Object of Terrour with dismal Characters? Just as the Indian Priests disguised their Pagan God with an unmerciful shape, and made him frightful with sharp Teeth and crooked Clawes, that they might make a profitable use of his Worshippers Fears. Your Majesty hath destroy'd that Malicious Policy with Your Presence, and disabus'd those who would not have err'd in their thoughts concerning You, but that they were seduc'd by Mifrepresentations, which God and Time have mercifully taken off. You have made those which were terrified into a desire of Your Absence to lay aside their feares, and to rejoyce and give thanks for Your happy Return.</p>
+            <p>Your Subjects, that is, one part of them, forc'd from You by themselves, were at last affraid of forreign Arms, for they could not but think that God would send Aliens to chastise such unworthy Natives. But how much were we mistaken both as to the Method of Providence and Your Majesties Condition? God would not have You be holden to Strangers for the possession of that which he had given You, nor put You to the trouble of fighting any more for Your Right. Who would not, who did not glad<g ref="char:EOLhyphen"/>ly yield to a Prince that desired only to Conquer by Love? We are reduc'd to our Obedience by such admi<g ref="char:EOLhyphen"/>rable Motives, that we know not which we should ex<g ref="char:EOLhyphen"/>press first, Repentance or Admiration. You love those which had abandon'd You, and when a sore wound was made upon us by Disobedience, You have shewn the all-conquering Skil of Love, and heal'd it without a Scar. The Offenders confess'd that their Crimes needed an Expiati<g ref="char:EOLhyphen"/>on, but Your Pity chose rather the Teares of Penitents, then the Bloud of Sinners. Indignation hath no Accep<g ref="char:EOLhyphen"/>tance in the calm brest of our Prince. Those Royal Per<g ref="char:EOLhyphen"/>fections
+<pb n="5" facs="tcp:154217:4"/>which dwell there, can spare no room for such a mean Passion as Revengefulnesse. <hi>Asperis incultisque so<g ref="char:EOLhyphen"/>lûm Regionibus diutiûs haerent Nives.</hi> You have given Cruelty leave to fall into the Pit of Devils. You soon discern'd Implacableness to be no excellent Quality, be<g ref="char:EOLhyphen"/>cause You could not find in Gods Nature, and have told those sinners which believe otherwise, that they must needs be assured of their own Damnation. You have con<g ref="char:EOLhyphen"/>demn'd the Excuses of Malicious Hypocrites, and declar'd the Insufficiency of their weak Pleas, who think them<g ref="char:EOLhyphen"/>selves justified in taking Revenge by alleging that none can forgive. Who dare be so foolish as to think so, that hath but heard what You have done? What hath any man to forgive in Comparison of Your Wrongs? What Multitudes of Sins have You cover'd with Love, and bu<g ref="char:EOLhyphen"/>ried in Pardon? This Incomparable Amnesty shall be had in glorious Remembrance to Eternal Ages. God was willing to repair Your Honour, and when the Means was in Your choice, You took the best. As Heaven had done before, You departed from Your Right, lest the Execu<g ref="char:EOLhyphen"/>tion of rigorous Punishment should leave none to return to their Duty, and that those which saw themselves so mercifully spar'd, might repent more heartily. Who will not be sorry that they have so long offended one that is now as ready to forgive, as he was alwaies unwilling to do wrong? Who will now despair since You have enga<g ref="char:EOLhyphen"/>ged Your Clemency by a gracious Promise, and have sa<g ref="char:EOLhyphen"/>tisfied us concerning our Condition, if we be resolv'd concerning our own behaviour, and assured Your future Favour to all, but such as will be unworthy of it. You have so far restor'd Your People to Serene joyes, that nothing can grieve them now, but the remembrance of those faults, which You have forgotten; neither can
+<pb n="6" facs="tcp:154217:5"/>they dislike any thing in these happy Accidents, but that Your Unparallel'd Goodness hath Undone the Choice of Vertue in their future Obedience, having made it im<g ref="char:EOLhyphen"/>possible to all Ingenuity to Sin again.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
